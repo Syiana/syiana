@@ -55,9 +55,6 @@
   <a href="https://www.twitch.tv/syiana" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="Syiana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.paypal.com/donate?token=0lyFjQCAH-U9alt5oxqyH7yyRH3rcGtYoQyNcepgV8bYP_NknnceZVqriAXNIcakMjkBQV7smn2Afv4T&locale.x=US" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
